@@ -5,6 +5,7 @@
 Copy this repository to your local machine, e.g. via `git clone`.
 Then install the `lightly-purple` package via pip:
 ```bash
+git clone https://github.com/lightly-ai/datasets_examples_purple
 pip install lightly-purple
 ```
 
