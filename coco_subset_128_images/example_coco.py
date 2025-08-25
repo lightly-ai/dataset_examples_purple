@@ -1,6 +1,7 @@
 # We import the DatasetLoader class from the lightly_purple module
-from lightly_purple import DatasetLoader
 from pathlib import Path
+
+from lightly_purple import DatasetLoader
 
 # Create a DatasetLoader instance
 loader = DatasetLoader()
@@ -12,4 +13,4 @@ loader.from_coco_instance_segmentations(
 )
 
 # We start the UI application on port 8001
-loader.launch()
+loader.start_gui()
