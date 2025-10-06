@@ -1,3 +1,9 @@
+# OUTDATED, DO NOT USE
+
+Use instead: https://github.com/lightly-ai/dataset_examples
+
+
+
 # Example datasets for the lightly-purple tool.
 
 ## Installation
